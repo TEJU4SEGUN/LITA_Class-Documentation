@@ -28,4 +28,17 @@ This involved testing some basic excel functions in answering some questions abo
  -  Highest salary
  - Lowest salary
 - Total no of Staff
+- Fourth highest slary
+- Third lowest salary
+
+
+### Data Analysis
+This is where we include basis excel functions used for our expressions during analysis
+- =SUM(C3:C22)
+- =AVERAGE(C3:C22)
+- =MAX(C3:C22)
+- =MIN(C3:C22)
+- =COUNTA(A3:A22)
+- =LARGE(C3:C22,4)
+- =SMALL(C3:C22,3)
 
