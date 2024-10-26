@@ -10,4 +10,13 @@ The primary source of data used here is Employee staff record.csv and this is an
    1. For creating,
    2. For testing
    3. For demostrating Excel functions
-- Gitub for portfolio building
+- Github for portfolio building
+
+- ### Data creating
+   1. Define the purpose of Data
+   2. Choose data columns
+   3. Generate sample Data for Each Column
+   4. Format the data
+ 
+### Data Testing
+- Test the Data with Basis Excel Functions
