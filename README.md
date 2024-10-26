@@ -7,4 +7,5 @@ This project explores fundamental Excel functions, providing a foundation for us
 The primary source of data used here is Employee staff record.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle.com or Data.com.
 ### Tools Used
 Microsoft excel for creating,testing, and demostrating Excel functions
+
 Gitub for portfolio building
