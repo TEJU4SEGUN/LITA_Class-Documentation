@@ -20,3 +20,12 @@ The primary source of data used here is Employee staff record.csv and this is an
  
 ### Data Testing
 - Test the Data with Basis Excel Functions
+
+### Exploratory Data Analysis
+This involved testing some basic excel functions in answering some questions about the data such as:
+ - Grand Total
+-  Average salary
+ -  Highest salary
+ - Lowest salary
+- Total no of Staff
+
