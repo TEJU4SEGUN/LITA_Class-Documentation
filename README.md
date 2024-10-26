@@ -42,3 +42,4 @@ This is where we include basis excel functions used for our expressions during a
 - =LARGE(C3:C22,4)
 - =SMALL(C3:C22,3)
 
+[Excel functions.xlsx](https://github.com/user-attachments/files/17531445/Excel.functions.xlsx)
